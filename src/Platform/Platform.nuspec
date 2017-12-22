@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PlatformSigned.NET</id>
+    <version>1.0.0</version>
+    <title>Platform.NET System Library (Signed version)</title>
+    <authors>Thong Nguyen</authors>
+    <owners>Thong Nguyen</owners>
+    <licenseUrl>https://raw.github.com/platformdotnet/Platform/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/platformdotnet/Platform</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A cross-platform library of useful classes and extensions for C# and .NET. Signed version.</description>
+    <releaseNotes>First signed version.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+  </metadata>
+</package>

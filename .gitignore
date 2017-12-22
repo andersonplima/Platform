@@ -150,3 +150,4 @@ $RECYCLE.BIN/
 # NuGet Packages
 lib/Packages/
 src/packages/
+/src/.vs/Platform.NET/v15/Server/sqlite3

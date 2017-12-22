@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Platform.NET</id>
+    <id>Platform.NET.Signed</id>
     <version>$version$</version>
-    <title>Platform.NET System Library</title>
-    <summary>A cross-platform library of useful classes and extensions for C# and .NET</summary>
-    <authors>Thong Nguyen</authors>
-    <owners>Thong Nguyen</owners>
+    <title>Platform.NET System Library (Signed version)</title>
+    <summary>A cross-platform library of useful classes and extensions for C# and .NET (Signed verson)</summary>
+    <authors>Thong Nguyen | Anderson Lima</authors>
+    <owners>Thong Nguyen | Anderson Lima</owners>
     <licenseUrl>https://raw.github.com/platformdotnet/Platform/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/platformdotnet/Platform</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -14,9 +14,10 @@
 Platform.NET
 
 A cross-platform library of useful classes and extensions for C# and .NET.
+Signed version.
 </description>
     <releaseNotes>$releasenotes$</releaseNotes>
     <copyright>Copyright (c) 2003-2016 Thong Nguyen (tumtumtum@gmail.com)</copyright>
-    <tags>task text utility string extensions base64 ntp invocationqueue utility weakreference meteringstream expressionvisitor linq ringbuffer fifobuffer circular</tags>
+    <tags></tags>
   </metadata>
 </package>
